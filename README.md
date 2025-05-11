@@ -19,14 +19,14 @@ This is a creative twist on classic board games, merging **Snakes & Ladders** an
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 🔧Prerequisites
 
 - Python 3.8 or above
 - Pygame library
 
-## To install Pygame
+## 📦To install Pygame
 pip install pygame
 
-## Running the Game
+## ▶️Running the Game
 python main.py
 
